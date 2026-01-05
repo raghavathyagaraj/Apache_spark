@@ -209,3 +209,6 @@ Mastering these architectural concepts is essential for building **efficient, re
 
 📌 *Ideal for Data Engineers, Analytics Engineers, and Big Data Practitioners*
 
+<p align="center">
+  <img src="images/Gemini_Generated_Image_550ab5550ab5550a.png" width="1000">
+</p
