@@ -199,6 +199,6 @@ Apache Spark provides:
 Spark is a foundational technology for modern **data engineering, analytics, and lakehouse architectures**.
 
 <p align="center">
-  <img src="Introduction/images/Gemini_Generated_Image_a0pg97a0pg97a0pg.png" width="1000">
+  <img src="images/Gemini_Generated_Image_a0pg97a0pg97a0pg.png" width="1000">
 </p
 
